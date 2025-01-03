@@ -12,12 +12,12 @@
 - 💼 I have worked with **[Education Point Naini](http://www.educationpointnaini.in/)**, building innovative solutions in the education sector.
 - 💬 Ask me about **MERN Stack, Data Science, and Python**
 - 🌟 Featured on **[iamyourstory.in](http://www.iamyourstory.in/)** for my contributions to Full Stack Development and Data Science.
-- 📫 How to reach me: **satyam.tripathi@example.com**
+- 📫 How to reach me: **tripathisatyam0099@gmail.com**
 - ⚡ Fun fact: **I enjoy creating apps that solve real-world problems and love exploring new tech trends!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/satyamtripathi" target="blank">
+  <a href="https://www.linkedin.com/in/satyam0099"target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyamtripathi" height="30" width="40" />
   </a>
 </p>
