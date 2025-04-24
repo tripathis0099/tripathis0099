@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=satyamtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="satyamtripathi" />
 </p>
 
-- 🌱 I’m currently working on **Data Analytics Projects**
+- 🌱 I’m currently working on **MERN STACK Projects**
 - 🔭 I’m currently learning **SQL**
 - 💼 I have worked with **[Education Point Naini](http://www.educationpointnaini.in/)**, building innovative solutions in the education sector.
 - 💬 Ask me about **MERN Stack, and Python**
