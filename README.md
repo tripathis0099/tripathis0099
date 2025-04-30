@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently working on **MERN STACK Projects**
-- 🔭 I’m currently learning **SQL**
+- 🔭 I’m currently learning **SQL and MERN**
 - 💼 I have worked with **[Education Point Naini](http://www.educationpointnaini.in/)**, building innovative solutions in the education sector.
 - 💬 Ask me about **MERN Stack, and Python**
 - 🌟 Featured on **[iamyourstory.in](http://www.iamyourstory.in/)** for my contributions to Full Stack Development and Data Science.
